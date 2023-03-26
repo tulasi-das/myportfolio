@@ -1,4 +1,4 @@
-# myportfolio
+# My Portfolio
 
 Hey Thanks for checking out my profile. 
 This is the repository for my portfolio website 
